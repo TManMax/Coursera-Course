@@ -1,0 +1,42 @@
+<style>
+
+body {
+
+	color: green;
+	font-size: 20px;
+	font-family: 'Arial', Helvetica, sans-serif;
+
+}
+
+h1 {
+
+	font-size: 50px;
+	font-family: sans-serif;
+
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/************Large devices********/
+
+@media (min-width: 992px) {
+
+
+
+}
+
+/************Table view********/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+/************Mobile devices********/
+
+@media (min-width: 767px)
+
+
+</style>
